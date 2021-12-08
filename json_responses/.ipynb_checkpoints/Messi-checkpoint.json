@@ -1,0 +1,1799 @@
+{
+    "data": [
+        {
+            "author_id": "1451844712105750534",
+            "created_at": "2021-12-08T01:12:00.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "1461716579280900106",
+                        "start": 3,
+                        "username": "Hamza_Khizarr"
+                    }
+                ]
+            },
+            "id": "1468387855055654914",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "RT @Hamza_Khizarr: &gt;dead rubber\n&gt;home game\n&gt;already 2-0 up\n&gt;opposition attacks leaving the midfield empty\n&gt;weak opponents\n\nThe inch perfect\u2026"
+        },
+        {
+            "author_id": "1314298250934005762",
+            "created_at": "2021-12-08T01:12:00.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "771606164",
+                        "start": 3,
+                        "username": "ActuFoot_"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/ClYpuPbe3n",
+                        "end": 105,
+                        "expanded_url": "https://twitter.com/ActuFoot_/status/1468304187792543745/photo/1",
+                        "start": 82,
+                        "url": "https://t.co/ClYpuPbe3n"
+                    }
+                ]
+            },
+            "id": "1468387853843451904",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1755
+            },
+            "text": "RT @ActuFoot_: 7\ufe0f\u20e35\ufe0f\u20e38\ufe0f\u20e3 buts en carri\u00e8re pro. \u26bd\ufe0f\n\n\u00c7a y est ! Messi d\u00e9passe Pel\u00e9. https://t.co/ClYpuPbe3n"
+        },
+        {
+            "author_id": "907367044668157954",
+            "created_at": "2021-12-08T01:11:59.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 55,
+                        "normalized_text": "Antonela",
+                        "probability": 0.7685,
+                        "start": 48,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 79,
+                        "normalized_text": "Messi",
+                        "probability": 0.9899,
+                        "start": 75,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "insta",
+                        "probability": 0.5014,
+                        "start": 134,
+                        "type": "Product"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "850513593846157312",
+                        "start": 3,
+                        "username": "PortalMessi"
+                    }
+                ]
+            },
+            "id": "1468387851545022471",
+            "lang": "pt",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10458
+            },
+            "text": "RT @PortalMessi: Os fot\u00f3grafos pediram para que Antonela sa\u00edsse do lado de Messi para o argentino fosse fotografado sozinho. No mesmo insta\u2026"
+        },
+        {
+            "author_id": "1376263135208820736",
+            "created_at": "2021-12-08T01:11:59.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "LIONEL ANDR\u00c9S MESSI",
+                        "probability": 0.6855,
+                        "start": 24,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1338702129121398786",
+                        "start": 3,
+                        "username": "ElMichalito"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/B1swNYxiHs",
+                        "end": 78,
+                        "expanded_url": "https://twitter.com/ElMichalito/status/1468303950847918084/photo/1",
+                        "start": 55,
+                        "url": "https://t.co/B1swNYxiHs"
+                    }
+                ]
+            },
+            "id": "1468387848646766592",
+            "lang": "es",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1750
+            },
+            "text": "RT @ElMichalito: TE AMO LIONEL ANDR\u00c9S MESSI CUCCITTINI https://t.co/B1swNYxiHs"
+        },
+        {
+            "author_id": "1410067568853880836",
+            "created_at": "2021-12-08T01:11:59.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 46,
+                        "normalized_text": "Leo Messi",
+                        "probability": 0.9674,
+                        "start": 38,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 62,
+                        "start": 55,
+                        "tag": "PSGCLU"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "3001704118",
+                        "start": 3,
+                        "username": "PSG_English"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/XKy4qf0vlU",
+                        "end": 86,
+                        "expanded_url": "https://twitter.com/PSG_English/status/1468300058948997134/photo/1",
+                        "start": 63,
+                        "url": "https://t.co/XKy4qf0vlU"
+                    }
+                ]
+            },
+            "id": "1468387848386592768",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1098
+            },
+            "text": "RT @PSG_English: A double tonight for Leo Messi! \u26bd\ufe0f\u26bd\ufe0f\n\n#PSGCLU https://t.co/XKy4qf0vlU"
+        },
+        {
+            "author_id": "3439628188",
+            "created_at": "2021-12-08T01:11:58.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "1351624458428182531",
+                        "start": 3,
+                        "username": "CompsPSG"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/k05yQ4SnFQ",
+                        "end": 65,
+                        "expanded_url": "https://twitter.com/jr10upload/status/1468332826168860673/video/1",
+                        "start": 42,
+                        "url": "https://t.co/k05yQ4SnFQ"
+                    }
+                ]
+            },
+            "id": "1468387848189616132",
+            "lang": "it",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 561
+            },
+            "text": "RT @CompsPSG: Lionel Messi vs Club Brugge https://t.co/k05yQ4SnFQ"
+        },
+        {
+            "author_id": "1369781483179806724",
+            "created_at": "2021-12-08T01:11:58.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1160690125",
+                        "start": 3,
+                        "username": "PSG_espanol"
+                    }
+                ]
+            },
+            "id": "1468387845668696066",
+            "lang": "it",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5874
+            },
+            "text": "RT @PSG_espanol: LIONEL ANDR\u00c9S MESSI CUCCITTINI \ud83c\udde6\ud83c\uddf7\ud83d\udc10"
+        },
+        {
+            "author_id": "1399092684632072199",
+            "created_at": "2021-12-08T01:11:58.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 29,
+                        "normalized_text": "Messi",
+                        "probability": 0.7177,
+                        "start": 25,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "980865872742043654",
+                        "start": 3,
+                        "username": "MessiIizer"
+                    }
+                ]
+            },
+            "id": "1468387845383630863",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 129
+            },
+            "text": "RT @MessiIizer: 5 G/A in Messi's last 5 games."
+        },
+        {
+            "author_id": "1332769275661197314",
+            "created_at": "2021-12-08T01:11:58.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 129,
+                        "normalized_text": "pele",
+                        "probability": 0.8379,
+                        "start": 126,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Rona",
+                        "probability": 0.9159,
+                        "start": 135,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1373671944873242624",
+                        "start": 3,
+                        "username": "AlexMet95750919"
+                    }
+                ]
+            },
+            "id": "1468387844909457408",
+            "lang": "es",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "RT @AlexMet95750919: Hola! Vos me hablas del 7 veces bal\u00f3n de oro\u2753\u2753\nSI\u2705\ndel que en un d\u00eda como hoy rompi\u00f3 2 nuevos r\u00e9cords (a pele y a Rona\u2026"
+        },
+        {
+            "author_id": "1378526901036257284",
+            "created_at": "2021-12-08T01:11:58.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "LIONEL ANDR\u00c9S MESSI",
+                        "probability": 0.6855,
+                        "start": 24,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1338702129121398786",
+                        "start": 3,
+                        "username": "ElMichalito"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/B1swNYxiHs",
+                        "end": 78,
+                        "expanded_url": "https://twitter.com/ElMichalito/status/1468303950847918084/photo/1",
+                        "start": 55,
+                        "url": "https://t.co/B1swNYxiHs"
+                    }
+                ]
+            },
+            "id": "1468387844364382216",
+            "lang": "es",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1750
+            },
+            "text": "RT @ElMichalito: TE AMO LIONEL ANDR\u00c9S MESSI CUCCITTINI https://t.co/B1swNYxiHs"
+        },
+        {
+            "author_id": "1374376223049052160",
+            "created_at": "2021-12-08T01:11:58.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1401262812077473797",
+                        "start": 3,
+                        "username": "ArobasePiovanny"
+                    }
+                ]
+            },
+            "id": "1468387844083355651",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "text": "RT @ArobasePiovanny: Lionel Messi est le joueur le plus d\u00e9test\u00e9 et le moins respecter et \u00e7a m\u2019\u00e9nerve"
+        },
+        {
+            "author_id": "2453374722",
+            "created_at": "2021-12-08T01:11:57.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 38,
+                        "normalized_text": "Messi",
+                        "probability": 0.9952,
+                        "start": 34,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "69962890",
+                        "start": 3,
+                        "username": "2010MisterChip"
+                    }
+                ]
+            },
+            "id": "1468387840547557378",
+            "lang": "es",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 204
+            },
+            "text": "RT @2010MisterChip: El penalti de Messi. Otra vez."
+        },
+        {
+            "author_id": "3252914067",
+            "created_at": "2021-12-08T01:11:57.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Pel\u00e9",
+                        "probability": 0.9949,
+                        "start": 22,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 47,
+                        "normalized_text": "Lionel Messi",
+                        "probability": 0.9785,
+                        "start": 36,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "973302847654760448",
+                        "start": 3,
+                        "username": "porquetendencia"
+                    }
+                ]
+            },
+            "id": "1468387839909969929",
+            "lang": "es",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 646
+            },
+            "text": "RT @porquetendencia: \"Pel\u00e9\":\nPorque Lionel Messi alcanz\u00f3 los 758 goles y lo super\u00f3 en cantidad de anotaciones oficiales https://t.co/QLR6cq\u2026"
+        },
+        {
+            "author_id": "59276927",
+            "created_at": "2021-12-08T01:11:56.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 41,
+                        "start": 33,
+                        "tag": "TheKing"
+                    },
+                    {
+                        "end": 50,
+                        "start": 43,
+                        "tag": "soccer"
+                    },
+                    {
+                        "end": 58,
+                        "start": 51,
+                        "tag": "brasil"
+                    },
+                    {
+                        "end": 68,
+                        "start": 59,
+                        "tag": "brasilia"
+                    },
+                    {
+                        "end": 77,
+                        "start": 69,
+                        "tag": "futebol"
+                    },
+                    {
+                        "end": 84,
+                        "start": 78,
+                        "tag": "messi"
+                    },
+                    {
+                        "end": 89,
+                        "start": 85,
+                        "tag": "CR7"
+                    },
+                    {
+                        "end": 99,
+                        "start": 90,
+                        "tag": "SaoPaulo"
+                    },
+                    {
+                        "end": 113,
+                        "start": 100,
+                        "tag": "RiodoJaneiro"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "59276927",
+                        "start": 3,
+                        "username": "MQdesigns13"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "DESIGNS ABOUT THE KING OF SOCCER ON THE PLAYING CARD. \u2022 Millions of unique designs by independent artists. Find your thing.",
+                        "display_url": "redbubble.com/i/t-shirt/THE-\u2026",
+                        "end": 137,
+                        "expanded_url": "https://www.redbubble.com/i/t-shirt/THE-KING-OF-SOCCER-by-mqdesigns13/10435085.SWO0S#&gid=1&pid=1",
+                        "images": [
+                            {
+                                "height": 600,
+                                "url": "https://pbs.twimg.com/news_img/1467993502143467530/6QepG8pd?format=jpg&name=orig",
+                                "width": 600
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1467993502143467530/6QepG8pd?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 114,
+                        "status": 200,
+                        "title": "THE KING OF SOCCER Tri-blend T-Shirt by mqdesigns13",
+                        "unwound_url": "https://www.redbubble.com/i/t-shirt/THE-KING-OF-SOCCER-by-mqdesigns13/10435085.SWO0S#&gid=1&pid=1",
+                        "url": "https://t.co/Jt0KkjeO0P"
+                    }
+                ]
+            },
+            "id": "1468387839184416771",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "RT @MQdesigns13: Awesome T-Shirt #TheKing  #soccer #brasil #brasilia #futebol #messi #CR7 #SaoPaulo #RiodoJaneiro https://t.co/Jt0KkjeO0P"
+        },
+        {
+            "author_id": "1243102947183075328",
+            "created_at": "2021-12-08T01:11:56.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 28,
+                        "normalized_text": "Cristiano Ronaldo",
+                        "probability": 0.9904,
+                        "start": 12,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 45,
+                        "normalized_text": "Lionel Messi",
+                        "probability": 0.9952,
+                        "start": 34,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "18091004",
+                        "start": 3,
+                        "username": "ESPNFC"
+                    }
+                ]
+            },
+            "id": "1468387838945374218",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2047
+            },
+            "text": "RT @ESPNFC: Cristiano Ronaldo and Lionel Messi are now officially the top two men's goal scorers of all time.\n\nWe got to witness them do it\u2026"
+        },
+        {
+            "author_id": "1292374217405734912",
+            "created_at": "2021-12-08T01:11:56.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 4,
+                        "normalized_text": "Messi",
+                        "probability": 0.9959,
+                        "start": 0,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 13,
+                        "normalized_text": "Mbapp\u00e9",
+                        "probability": 0.7066,
+                        "start": 8,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "PSG",
+                        "probability": 0.9885,
+                        "start": 33,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 48,
+                        "normalized_text": "Champions",
+                        "probability": 0.3629,
+                        "start": 40,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "El Paris Saint-Germain sum\u00f3 un vital triunfo que le permite instalarse en los octavos de final de la UEFA Champions League, tras imponerse 4-1 al Club Brujas en la \u00faltima jornada de la fase de grup\u2026",
+                        "display_url": "pluralsemanario.com/?p=83548",
+                        "end": 73,
+                        "expanded_url": "https://pluralsemanario.com/?p=83548",
+                        "images": [
+                            {
+                                "height": 500,
+                                "url": "https://pbs.twimg.com/news_img/1468387837947138049/kE4M6Z5w?format=jpg&name=orig",
+                                "width": 750
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1468387837947138049/kE4M6Z5w?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 50,
+                        "status": 200,
+                        "title": "Messi y Mbapp\u00e9 gu\u00edan triunfo del PSG en Champions",
+                        "unwound_url": "https://pluralsemanario.com/?p=83548",
+                        "url": "https://t.co/oqEB0DfUTv"
+                    }
+                ]
+            },
+            "id": "1468387836110032899",
+            "lang": "es",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Messi y Mbapp\u00e9 gu\u00edan triunfo del PSG en\u00a0Champions https://t.co/oqEB0DfUTv"
+        },
+        {
+            "author_id": "1232220876046659584",
+            "created_at": "2021-12-08T01:11:55.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 28,
+                        "normalized_text": "Lewandowski",
+                        "probability": 0.9943,
+                        "start": 18,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 36,
+                        "normalized_text": "Messi",
+                        "probability": 0.9952,
+                        "start": 32,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 70,
+                        "normalized_text": "Ballon D",
+                        "probability": 0.3986,
+                        "start": 63,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1112077071071805442",
+                        "start": 3,
+                        "username": "cr7raprhymes"
+                    }
+                ]
+            },
+            "id": "1468387835539787776",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1240
+            },
+            "text": "RT @cr7raprhymes: Lewandowski: \"Messi said that I deserve 2020 Ballon D'or? I'd like his statement to be honest not just empty words.\" \n\nLm\u2026"
+        },
+        {
+            "author_id": "1447688445531463685",
+            "created_at": "2021-12-08T01:11:55.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1160690125",
+                        "start": 3,
+                        "username": "PSG_espanol"
+                    }
+                ]
+            },
+            "id": "1468387834813767682",
+            "lang": "it",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5874
+            },
+            "text": "RT @PSG_espanol: LIONEL ANDR\u00c9S MESSI CUCCITTINI \ud83c\udde6\ud83c\uddf7\ud83d\udc10"
+        },
+        {
+            "author_id": "1252005883145588737",
+            "created_at": "2021-12-08T01:11:55.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "LIONEL ANDR\u00c9S MESSI",
+                        "probability": 0.6855,
+                        "start": 24,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1338702129121398786",
+                        "start": 3,
+                        "username": "ElMichalito"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/B1swNYxiHs",
+                        "end": 78,
+                        "expanded_url": "https://twitter.com/ElMichalito/status/1468303950847918084/photo/1",
+                        "start": 55,
+                        "url": "https://t.co/B1swNYxiHs"
+                    }
+                ]
+            },
+            "id": "1468387832184061955",
+            "lang": "es",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1750
+            },
+            "text": "RT @ElMichalito: TE AMO LIONEL ANDR\u00c9S MESSI CUCCITTINI https://t.co/B1swNYxiHs"
+        },
+        {
+            "author_id": "152239920",
+            "created_at": "2021-12-08T01:11:55.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 22,
+                        "start": 16,
+                        "tag": "Messi"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "2723868624",
+                        "start": 3,
+                        "username": "HeyHey1404"
+                    }
+                ]
+            },
+            "id": "1468387832049844229",
+            "lang": "es",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "RT @HeyHey1404: #Messi es el mejor jugador del mundo. No hay debate, no hay color, no hay rival. Es el mejor y no se cansa de demostrarlo.\u2026"
+        },
+        {
+            "author_id": "1374376223049052160",
+            "created_at": "2021-12-08T01:11:58.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1401262812077473797",
+                        "start": 3,
+                        "username": "ArobasePiovanny"
+                    }
+                ]
+            },
+            "id": "1468387844083355651",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "text": "RT @ArobasePiovanny: Lionel Messi est le joueur le plus d\u00e9test\u00e9 et le moins respecter et \u00e7a m\u2019\u00e9nerve"
+        },
+        {
+            "author_id": "2453374722",
+            "created_at": "2021-12-08T01:11:57.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 38,
+                        "normalized_text": "Messi",
+                        "probability": 0.9952,
+                        "start": 34,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "69962890",
+                        "start": 3,
+                        "username": "2010MisterChip"
+                    }
+                ]
+            },
+            "id": "1468387840547557378",
+            "lang": "es",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 204
+            },
+            "text": "RT @2010MisterChip: El penalti de Messi. Otra vez."
+        },
+        {
+            "author_id": "3252914067",
+            "created_at": "2021-12-08T01:11:57.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Pel\u00e9",
+                        "probability": 0.9949,
+                        "start": 22,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 47,
+                        "normalized_text": "Lionel Messi",
+                        "probability": 0.9785,
+                        "start": 36,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "973302847654760448",
+                        "start": 3,
+                        "username": "porquetendencia"
+                    }
+                ]
+            },
+            "id": "1468387839909969929",
+            "lang": "es",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 646
+            },
+            "text": "RT @porquetendencia: \"Pel\u00e9\":\nPorque Lionel Messi alcanz\u00f3 los 758 goles y lo super\u00f3 en cantidad de anotaciones oficiales https://t.co/QLR6cq\u2026"
+        },
+        {
+            "author_id": "59276927",
+            "created_at": "2021-12-08T01:11:56.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 41,
+                        "start": 33,
+                        "tag": "TheKing"
+                    },
+                    {
+                        "end": 50,
+                        "start": 43,
+                        "tag": "soccer"
+                    },
+                    {
+                        "end": 58,
+                        "start": 51,
+                        "tag": "brasil"
+                    },
+                    {
+                        "end": 68,
+                        "start": 59,
+                        "tag": "brasilia"
+                    },
+                    {
+                        "end": 77,
+                        "start": 69,
+                        "tag": "futebol"
+                    },
+                    {
+                        "end": 84,
+                        "start": 78,
+                        "tag": "messi"
+                    },
+                    {
+                        "end": 89,
+                        "start": 85,
+                        "tag": "CR7"
+                    },
+                    {
+                        "end": 99,
+                        "start": 90,
+                        "tag": "SaoPaulo"
+                    },
+                    {
+                        "end": 113,
+                        "start": 100,
+                        "tag": "RiodoJaneiro"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "59276927",
+                        "start": 3,
+                        "username": "MQdesigns13"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "DESIGNS ABOUT THE KING OF SOCCER ON THE PLAYING CARD. \u2022 Millions of unique designs by independent artists. Find your thing.",
+                        "display_url": "redbubble.com/i/t-shirt/THE-\u2026",
+                        "end": 137,
+                        "expanded_url": "https://www.redbubble.com/i/t-shirt/THE-KING-OF-SOCCER-by-mqdesigns13/10435085.SWO0S#&gid=1&pid=1",
+                        "images": [
+                            {
+                                "height": 600,
+                                "url": "https://pbs.twimg.com/news_img/1467993502143467530/6QepG8pd?format=jpg&name=orig",
+                                "width": 600
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1467993502143467530/6QepG8pd?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 114,
+                        "status": 200,
+                        "title": "THE KING OF SOCCER Tri-blend T-Shirt by mqdesigns13",
+                        "unwound_url": "https://www.redbubble.com/i/t-shirt/THE-KING-OF-SOCCER-by-mqdesigns13/10435085.SWO0S#&gid=1&pid=1",
+                        "url": "https://t.co/Jt0KkjeO0P"
+                    }
+                ]
+            },
+            "id": "1468387839184416771",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "RT @MQdesigns13: Awesome T-Shirt #TheKing  #soccer #brasil #brasilia #futebol #messi #CR7 #SaoPaulo #RiodoJaneiro https://t.co/Jt0KkjeO0P"
+        },
+        {
+            "author_id": "1243102947183075328",
+            "created_at": "2021-12-08T01:11:56.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 28,
+                        "normalized_text": "Cristiano Ronaldo",
+                        "probability": 0.9904,
+                        "start": 12,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 45,
+                        "normalized_text": "Lionel Messi",
+                        "probability": 0.9952,
+                        "start": 34,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "18091004",
+                        "start": 3,
+                        "username": "ESPNFC"
+                    }
+                ]
+            },
+            "id": "1468387838945374218",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2047
+            },
+            "text": "RT @ESPNFC: Cristiano Ronaldo and Lionel Messi are now officially the top two men's goal scorers of all time.\n\nWe got to witness them do it\u2026"
+        },
+        {
+            "author_id": "1292374217405734912",
+            "created_at": "2021-12-08T01:11:56.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 4,
+                        "normalized_text": "Messi",
+                        "probability": 0.9959,
+                        "start": 0,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 13,
+                        "normalized_text": "Mbapp\u00e9",
+                        "probability": 0.7066,
+                        "start": 8,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "PSG",
+                        "probability": 0.9885,
+                        "start": 33,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 48,
+                        "normalized_text": "Champions",
+                        "probability": 0.3629,
+                        "start": 40,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "El Paris Saint-Germain sum\u00f3 un vital triunfo que le permite instalarse en los octavos de final de la UEFA Champions League, tras imponerse 4-1 al Club Brujas en la \u00faltima jornada de la fase de grup\u2026",
+                        "display_url": "pluralsemanario.com/?p=83548",
+                        "end": 73,
+                        "expanded_url": "https://pluralsemanario.com/?p=83548",
+                        "images": [
+                            {
+                                "height": 500,
+                                "url": "https://pbs.twimg.com/news_img/1468387837947138049/kE4M6Z5w?format=jpg&name=orig",
+                                "width": 750
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1468387837947138049/kE4M6Z5w?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 50,
+                        "status": 200,
+                        "title": "Messi y Mbapp\u00e9 gu\u00edan triunfo del PSG en Champions",
+                        "unwound_url": "https://pluralsemanario.com/?p=83548",
+                        "url": "https://t.co/oqEB0DfUTv"
+                    }
+                ]
+            },
+            "id": "1468387836110032899",
+            "lang": "es",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Messi y Mbapp\u00e9 gu\u00edan triunfo del PSG en\u00a0Champions https://t.co/oqEB0DfUTv"
+        },
+        {
+            "author_id": "1232220876046659584",
+            "created_at": "2021-12-08T01:11:55.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 28,
+                        "normalized_text": "Lewandowski",
+                        "probability": 0.9943,
+                        "start": 18,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 36,
+                        "normalized_text": "Messi",
+                        "probability": 0.9952,
+                        "start": 32,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 70,
+                        "normalized_text": "Ballon D",
+                        "probability": 0.3986,
+                        "start": 63,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1112077071071805442",
+                        "start": 3,
+                        "username": "cr7raprhymes"
+                    }
+                ]
+            },
+            "id": "1468387835539787776",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1240
+            },
+            "text": "RT @cr7raprhymes: Lewandowski: \"Messi said that I deserve 2020 Ballon D'or? I'd like his statement to be honest not just empty words.\" \n\nLm\u2026"
+        },
+        {
+            "author_id": "1447688445531463685",
+            "created_at": "2021-12-08T01:11:55.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1160690125",
+                        "start": 3,
+                        "username": "PSG_espanol"
+                    }
+                ]
+            },
+            "id": "1468387834813767682",
+            "lang": "it",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5874
+            },
+            "text": "RT @PSG_espanol: LIONEL ANDR\u00c9S MESSI CUCCITTINI \ud83c\udde6\ud83c\uddf7\ud83d\udc10"
+        },
+        {
+            "author_id": "1252005883145588737",
+            "created_at": "2021-12-08T01:11:55.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "LIONEL ANDR\u00c9S MESSI",
+                        "probability": 0.6855,
+                        "start": 24,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1338702129121398786",
+                        "start": 3,
+                        "username": "ElMichalito"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/B1swNYxiHs",
+                        "end": 78,
+                        "expanded_url": "https://twitter.com/ElMichalito/status/1468303950847918084/photo/1",
+                        "start": 55,
+                        "url": "https://t.co/B1swNYxiHs"
+                    }
+                ]
+            },
+            "id": "1468387832184061955",
+            "lang": "es",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1750
+            },
+            "text": "RT @ElMichalito: TE AMO LIONEL ANDR\u00c9S MESSI CUCCITTINI https://t.co/B1swNYxiHs"
+        },
+        {
+            "author_id": "152239920",
+            "created_at": "2021-12-08T01:11:55.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 22,
+                        "start": 16,
+                        "tag": "Messi"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "2723868624",
+                        "start": 3,
+                        "username": "HeyHey1404"
+                    }
+                ]
+            },
+            "id": "1468387832049844229",
+            "lang": "es",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "RT @HeyHey1404: #Messi es el mejor jugador del mundo. No hay debate, no hay color, no hay rival. Es el mejor y no se cansa de demostrarlo.\u2026"
+        },
+        {
+            "author_id": "1374376223049052160",
+            "created_at": "2021-12-08T01:11:58.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1401262812077473797",
+                        "start": 3,
+                        "username": "ArobasePiovanny"
+                    }
+                ]
+            },
+            "id": "1468387844083355651",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "text": "RT @ArobasePiovanny: Lionel Messi est le joueur le plus d\u00e9test\u00e9 et le moins respecter et \u00e7a m\u2019\u00e9nerve"
+        },
+        {
+            "author_id": "2453374722",
+            "created_at": "2021-12-08T01:11:57.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 38,
+                        "normalized_text": "Messi",
+                        "probability": 0.9952,
+                        "start": 34,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "69962890",
+                        "start": 3,
+                        "username": "2010MisterChip"
+                    }
+                ]
+            },
+            "id": "1468387840547557378",
+            "lang": "es",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 204
+            },
+            "text": "RT @2010MisterChip: El penalti de Messi. Otra vez."
+        },
+        {
+            "author_id": "3252914067",
+            "created_at": "2021-12-08T01:11:57.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Pel\u00e9",
+                        "probability": 0.9949,
+                        "start": 22,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 47,
+                        "normalized_text": "Lionel Messi",
+                        "probability": 0.9785,
+                        "start": 36,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "973302847654760448",
+                        "start": 3,
+                        "username": "porquetendencia"
+                    }
+                ]
+            },
+            "id": "1468387839909969929",
+            "lang": "es",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 646
+            },
+            "text": "RT @porquetendencia: \"Pel\u00e9\":\nPorque Lionel Messi alcanz\u00f3 los 758 goles y lo super\u00f3 en cantidad de anotaciones oficiales https://t.co/QLR6cq\u2026"
+        },
+        {
+            "author_id": "59276927",
+            "created_at": "2021-12-08T01:11:56.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 41,
+                        "start": 33,
+                        "tag": "TheKing"
+                    },
+                    {
+                        "end": 50,
+                        "start": 43,
+                        "tag": "soccer"
+                    },
+                    {
+                        "end": 58,
+                        "start": 51,
+                        "tag": "brasil"
+                    },
+                    {
+                        "end": 68,
+                        "start": 59,
+                        "tag": "brasilia"
+                    },
+                    {
+                        "end": 77,
+                        "start": 69,
+                        "tag": "futebol"
+                    },
+                    {
+                        "end": 84,
+                        "start": 78,
+                        "tag": "messi"
+                    },
+                    {
+                        "end": 89,
+                        "start": 85,
+                        "tag": "CR7"
+                    },
+                    {
+                        "end": 99,
+                        "start": 90,
+                        "tag": "SaoPaulo"
+                    },
+                    {
+                        "end": 113,
+                        "start": 100,
+                        "tag": "RiodoJaneiro"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "59276927",
+                        "start": 3,
+                        "username": "MQdesigns13"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "DESIGNS ABOUT THE KING OF SOCCER ON THE PLAYING CARD. \u2022 Millions of unique designs by independent artists. Find your thing.",
+                        "display_url": "redbubble.com/i/t-shirt/THE-\u2026",
+                        "end": 137,
+                        "expanded_url": "https://www.redbubble.com/i/t-shirt/THE-KING-OF-SOCCER-by-mqdesigns13/10435085.SWO0S#&gid=1&pid=1",
+                        "images": [
+                            {
+                                "height": 600,
+                                "url": "https://pbs.twimg.com/news_img/1467993502143467530/6QepG8pd?format=jpg&name=orig",
+                                "width": 600
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1467993502143467530/6QepG8pd?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 114,
+                        "status": 200,
+                        "title": "THE KING OF SOCCER Tri-blend T-Shirt by mqdesigns13",
+                        "unwound_url": "https://www.redbubble.com/i/t-shirt/THE-KING-OF-SOCCER-by-mqdesigns13/10435085.SWO0S#&gid=1&pid=1",
+                        "url": "https://t.co/Jt0KkjeO0P"
+                    }
+                ]
+            },
+            "id": "1468387839184416771",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "RT @MQdesigns13: Awesome T-Shirt #TheKing  #soccer #brasil #brasilia #futebol #messi #CR7 #SaoPaulo #RiodoJaneiro https://t.co/Jt0KkjeO0P"
+        },
+        {
+            "author_id": "1243102947183075328",
+            "created_at": "2021-12-08T01:11:56.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 28,
+                        "normalized_text": "Cristiano Ronaldo",
+                        "probability": 0.9904,
+                        "start": 12,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 45,
+                        "normalized_text": "Lionel Messi",
+                        "probability": 0.9952,
+                        "start": 34,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "18091004",
+                        "start": 3,
+                        "username": "ESPNFC"
+                    }
+                ]
+            },
+            "id": "1468387838945374218",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2047
+            },
+            "text": "RT @ESPNFC: Cristiano Ronaldo and Lionel Messi are now officially the top two men's goal scorers of all time.\n\nWe got to witness them do it\u2026"
+        },
+        {
+            "author_id": "1292374217405734912",
+            "created_at": "2021-12-08T01:11:56.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 4,
+                        "normalized_text": "Messi",
+                        "probability": 0.9959,
+                        "start": 0,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 13,
+                        "normalized_text": "Mbapp\u00e9",
+                        "probability": 0.7066,
+                        "start": 8,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "PSG",
+                        "probability": 0.9885,
+                        "start": 33,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 48,
+                        "normalized_text": "Champions",
+                        "probability": 0.3629,
+                        "start": 40,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "El Paris Saint-Germain sum\u00f3 un vital triunfo que le permite instalarse en los octavos de final de la UEFA Champions League, tras imponerse 4-1 al Club Brujas en la \u00faltima jornada de la fase de grup\u2026",
+                        "display_url": "pluralsemanario.com/?p=83548",
+                        "end": 73,
+                        "expanded_url": "https://pluralsemanario.com/?p=83548",
+                        "images": [
+                            {
+                                "height": 500,
+                                "url": "https://pbs.twimg.com/news_img/1468387837947138049/kE4M6Z5w?format=jpg&name=orig",
+                                "width": 750
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1468387837947138049/kE4M6Z5w?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 50,
+                        "status": 200,
+                        "title": "Messi y Mbapp\u00e9 gu\u00edan triunfo del PSG en Champions",
+                        "unwound_url": "https://pluralsemanario.com/?p=83548",
+                        "url": "https://t.co/oqEB0DfUTv"
+                    }
+                ]
+            },
+            "id": "1468387836110032899",
+            "lang": "es",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Messi y Mbapp\u00e9 gu\u00edan triunfo del PSG en\u00a0Champions https://t.co/oqEB0DfUTv"
+        },
+        {
+            "author_id": "1232220876046659584",
+            "created_at": "2021-12-08T01:11:55.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 28,
+                        "normalized_text": "Lewandowski",
+                        "probability": 0.9943,
+                        "start": 18,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 36,
+                        "normalized_text": "Messi",
+                        "probability": 0.9952,
+                        "start": 32,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 70,
+                        "normalized_text": "Ballon D",
+                        "probability": 0.3986,
+                        "start": 63,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1112077071071805442",
+                        "start": 3,
+                        "username": "cr7raprhymes"
+                    }
+                ]
+            },
+            "id": "1468387835539787776",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1240
+            },
+            "text": "RT @cr7raprhymes: Lewandowski: \"Messi said that I deserve 2020 Ballon D'or? I'd like his statement to be honest not just empty words.\" \n\nLm\u2026"
+        },
+        {
+            "author_id": "1447688445531463685",
+            "created_at": "2021-12-08T01:11:55.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1160690125",
+                        "start": 3,
+                        "username": "PSG_espanol"
+                    }
+                ]
+            },
+            "id": "1468387834813767682",
+            "lang": "it",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5874
+            },
+            "text": "RT @PSG_espanol: LIONEL ANDR\u00c9S MESSI CUCCITTINI \ud83c\udde6\ud83c\uddf7\ud83d\udc10"
+        },
+        {
+            "author_id": "1252005883145588737",
+            "created_at": "2021-12-08T01:11:55.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "LIONEL ANDR\u00c9S MESSI",
+                        "probability": 0.6855,
+                        "start": 24,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1338702129121398786",
+                        "start": 3,
+                        "username": "ElMichalito"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/B1swNYxiHs",
+                        "end": 78,
+                        "expanded_url": "https://twitter.com/ElMichalito/status/1468303950847918084/photo/1",
+                        "start": 55,
+                        "url": "https://t.co/B1swNYxiHs"
+                    }
+                ]
+            },
+            "id": "1468387832184061955",
+            "lang": "es",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1750
+            },
+            "text": "RT @ElMichalito: TE AMO LIONEL ANDR\u00c9S MESSI CUCCITTINI https://t.co/B1swNYxiHs"
+        },
+        {
+            "author_id": "152239920",
+            "created_at": "2021-12-08T01:11:55.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 22,
+                        "start": 16,
+                        "tag": "Messi"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "2723868624",
+                        "start": 3,
+                        "username": "HeyHey1404"
+                    }
+                ]
+            },
+            "id": "1468387832049844229",
+            "lang": "es",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "RT @HeyHey1404: #Messi es el mejor jugador del mundo. No hay debate, no hay color, no hay rival. Es el mejor y no se cansa de demostrarlo.\u2026"
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "1451844712105750534",
+                "name": "Hasbulla Abi",
+                "username": "Pessi_HGH_Abusa",
+                "verified": false
+            },
+            {
+                "id": "1314298250934005762",
+                "name": "yes x",
+                "username": "IAMUCHIWA1",
+                "verified": false
+            },
+            {
+                "id": "907367044668157954",
+                "name": "Lara \ud83e\udd8b",
+                "username": "Monjardiim",
+                "verified": false
+            },
+            {
+                "id": "1376263135208820736",
+                "name": "\ud83d\udc7d",
+                "username": "ismaelcok",
+                "verified": false
+            },
+            {
+                "id": "1410067568853880836",
+                "name": "SAMQUIT665",
+                "username": "samquit665",
+                "verified": false
+            },
+            {
+                "id": "3439628188",
+                "name": "nia\u00b2\u00b9",
+                "username": "flwameng",
+                "verified": false
+            },
+            {
+                "id": "1369781483179806724",
+                "name": "Eduardo Gonzalez",
+                "username": "Eduardo22091997",
+                "verified": false
+            },
+            {
+                "id": "1399092684632072199",
+                "name": "D",
+                "username": "DL4PF_",
+                "verified": false
+            },
+            {
+                "id": "1332769275661197314",
+                "name": "Vanina",
+                "username": "VaninaMgc1601",
+                "verified": false
+            },
+            {
+                "id": "1378526901036257284",
+                "name": "lu",
+                "username": "luuulyyy__",
+                "verified": false
+            },
+            {
+                "id": "1374376223049052160",
+                "name": "PHISIHNO",
+                "username": "florisssjr",
+                "verified": false
+            },
+            {
+                "id": "2453374722",
+                "name": "Carlos Antonio",
+                "username": "carchacor",
+                "verified": false
+            },
+            {
+                "id": "3252914067",
+                "name": "aldana (taylor's version) \ud83c\udde6\ud83c\uddf7",
+                "username": "aldanaleal5",
+                "verified": false
+            },
+            {
+                "id": "59276927",
+                "name": "MQ_Clothing",
+                "username": "MQdesigns13",
+                "verified": false
+            },
+            {
+                "id": "1243102947183075328",
+                "name": "multiplebills\ud83e\udd11",
+                "username": "Sadiq55334803",
+                "verified": false
+            },
+            {
+                "id": "1292374217405734912",
+                "name": "plural semanario de veracruz",
+                "username": "PluralVeracruz",
+                "verified": false
+            },
+            {
+                "id": "1232220876046659584",
+                "name": "\ud83c\uddef\ud83c\uddf5\ud83c\uddea\ud83c\uddf8\ud83c\udde8\ud83c\uddf3\u30d1\u30f3\u30d7\u30ad\u30f3\u30dc\u30fc\u30a4",
+                "username": "Maya62700960",
+                "verified": false
+            },
+            {
+                "id": "1447688445531463685",
+                "name": "El Inombrable",
+                "username": "elsinnombreeeee",
+                "verified": false
+            },
+            {
+                "id": "1252005883145588737",
+                "name": "\u1d3a\u1d43\u02b8\u1d48\u1d49\u02e1\u1da4\u1db0\u1d49",
+                "username": "naydeliineee",
+                "verified": false
+            },
+            {
+                "id": "152239920",
+                "name": "Renaldo Feo Tabosky",
+                "username": "renaldofeo",
+                "verified": false
+            }
+        ]
+    }
+}
