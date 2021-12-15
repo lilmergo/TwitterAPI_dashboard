@@ -12,6 +12,7 @@ To test this notebook, fill out these variables and then run every cell:
   This will print n lines of '200' to signal that the API call was successful.
  <li> Go to the heading 'For testing, specify the new test folder name in the variable 'folderName'. A new test folder will be created containing the newly generated CSV files. If the folder already exists then overwrite the CSV files in the specified folder.
 </ul>
+
 ## Dashboards
 The screenshots of the dashboards are included in the folder: the default Dashboard_Kelloggs, and the tests Dashboard_Amazon, and Dashboard_Environment. If there is access to Tableau, the Twitter_Dashboard workbook is also included. 
 
