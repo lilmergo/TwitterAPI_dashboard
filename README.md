@@ -72,6 +72,7 @@ From the feedback, and also following my original plan, I added sentiment analys
     <td>Since the structure of the CSV files for both the default and test queries are the same, there was no issue rendering the same graphs and filters for the different datasets.</td>
   </tr>
 </table>
+
 ## Project report
 Contains all the readme information as well as extra comments and analysis on the data.
    
