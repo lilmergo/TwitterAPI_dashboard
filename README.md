@@ -1,6 +1,9 @@
 # TwitterAPI_dashboard
 Using the twitter API v2 to analyze engagement trends in tweets and users, and visualizing the data as a Tableau dashboard.
 
+## Demo videos
+Demo videos are included in the 'Demo videos', one to demo the notebook and the other to demo the dashboard.
+
 ## tweet_collector.ipynb
 This Python notebook makes the API calls to twitter and appends the responses to a JSON file (stored in the 'json_response' folder), which is then parsed to create CSV files (the default results for the Kellogg's strike topic are stored in the 'CSV' folder, the two test results are stored in 'Test' and 'Test2') that are structured for a relational model, which can then be imported into Tableau to generate the dashboard. There are headings, descriptions and comments throughout the notebook explaining how the code works.
 
